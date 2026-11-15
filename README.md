@@ -28,10 +28,10 @@ Now, I combine this operational reality with **Data Analytics**. Through my tech
 
 | 🔍 Project | 🎯 Objective | 💡 Key Insight / Result |
 | :--- | :--- | :--- |
-| **[1. E-Commerce Data Debt & SLA Audit](#)** | Audit logistics performance & brand reputation. | Discovered a 6-day SLA tipping point risking $713K in churn. |
-| **[2. Global Shipping & Delivery Efficiency](#)** | Analyze delivery times across shipping modes. | Identified 100% SLA failure rate in 'First Class', proposing $24K savings. |
-| **[3. Profitability Audit - Loss Drivers](#)** | Find root causes of negative profitability. | Proved 80% of revenue leakage came from operational costs, not fraud. |
-| **[4. SQL Store Inventory Validation](#)** | Audit a warehouse database for dead stock. | Identified a synthetic dataset by proving the absence of realistic inefficiencies. |
+| **[1. E-Commerce Data Debt & SLA Audit](https://github.com/marinac00/ecommerce-data-debt-audit)** | Audit logistics performance & brand reputation. | Discovered a 6-day SLA tipping point risking $713K in churn. |
+| **[2. Global Shipping & Delivery Efficiency](https://github.com/marinac00/supply-chain-efficiency-analysis-dataco)** | Analyze delivery times across shipping modes. | Identified 100% SLA failure rate in 'First Class', proposing $24K savings. |
+| **[3. Profitability Audit - Loss Drivers](https://github.com/marinac00/supply-chain-loss-drivers)** | Find root causes of negative profitability. | Proved 80% of revenue leakage came from operational costs, not fraud. |
+| **[4. SQL Store Inventory Validation](https://github.com/marinac00/SQL-Store-Inventory-Validation)** | Audit a warehouse database for dead stock. | Identified a synthetic dataset by proving the absence of realistic inefficiencies. |
 
 ---
 
